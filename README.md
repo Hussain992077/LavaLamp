@@ -11,6 +11,12 @@ Video:
 [![YouTube](http://img.youtube.com/vi/J2kHSSFA4NU/0.jpg)](https://www.youtube.com/watch?v=J2kHSSFA4NU)
 
 # Description of the project
+this is about a cool visual Lava Lamp that play around with some interesting graphical rendering techniques
+since this might be required some  shader code im going to use unity to create it.
+so it is a lava lamp which contains a cap, the glass area and the base. there is some kind of a heating oil element on the bottom and the bolus inside the glass area. these also have viscosity and the fact that these bolus can merge toghether. so im going to make the scene on unity and using shader to move the bolus.   
+
+
+
 
 # Instructions for use
 
