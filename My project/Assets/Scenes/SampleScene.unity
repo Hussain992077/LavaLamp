@@ -233,7 +233,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e093e17f91f9af42ba34038b33eb01c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  gravity: 0.1
+  maxYSpeed: 1
   heatSourceY: -0.5
+  heatSourceIntensity: 1
+  passiveCoolingRate: 0.5
+  temperatureForce: 0.01
+  minTemperature: 0
+  maxTemperature: 100
+  temperatureMinScale: 0.1
+  temperatureMaxScale: 0.5
   temperature: 0
   velocity: {x: 0, y: -1, z: 0}
 --- !u!1 &576857471
