@@ -22,6 +22,8 @@
         android:name="android.hardware.vulkan.version"
         android:required="false" />
 
+    <supports-gl-texture android:name="GL_KHR_texture_compression_astc_ldr" />
+
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
@@ -98,7 +100,7 @@
             android:value="false" />
         <meta-data
             android:name="com.oculus.supportedDevices"
-            android:value="quest|quest2" />
+            android:value="quest2" />
     </application>
 
 </manifest>

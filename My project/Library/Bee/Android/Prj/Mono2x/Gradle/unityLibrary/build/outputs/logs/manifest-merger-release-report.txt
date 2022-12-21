@@ -1,25 +1,25 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-33:12
-INJECTED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-33:12
+ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-34:12
 	package
 		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:70-98
 		INJECTED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
-		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-33:12
+		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-34:12
 		INJECTED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:99-145
 	android:versionCode
 		INJECTED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
-		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-33:12
+		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:1-34:12
 		INJECTED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:2:11-69
@@ -132,9 +132,9 @@ ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\G
 	android:name
 		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:22:16-68
 meta-data#com.oculus.supportedDevices
-ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:5-90
+ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:5-84
 	android:value
-		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:59-87
+		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:59-81
 	android:name
 		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:16-58
 uses-feature#0x00030000
@@ -147,40 +147,44 @@ ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\G
 		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:64-88
 	android:name
 		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:17-63
+supports-gl-texture#GL_KHR_texture_compression_astc_ldr
+ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:3-77
+	android:name
+		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:24-74
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:3-65
+ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:3-65
 	android:name
-		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:20-62
+		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:20-62
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:3-77
+ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:3-77
 	android:name
-		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:28:20-74
+		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:20-74
 uses-feature#android.hardware.touchscreen
-ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:3-88
+ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:3-88
 	android:required
-		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:61-85
+		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:61-85
 	android:name
-		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:17-60
+		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:17-60
 uses-feature#android.hardware.touchscreen.multitouch
-ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:3-99
+ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:3-99
 	android:required
-		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:72-96
+		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:72-96
 	android:name
-		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:17-71
+		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:17-71
 uses-feature#android.hardware.touchscreen.multitouch.distinct
-ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:3-108
+ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:3-108
 	android:required
-		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:81-105
+		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:81-105
 	android:name
-		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:31:17-80
+		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:17-80
 uses-feature#android.hardware.vr.headtracking
-ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:3-111
+ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:3-111
 	android:version
-		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:89-108
+		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:89-108
 	android:required
-		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:65-88
+		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:65-88
 	android:name
-		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:32:17-64
+		ADDED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml:33:17-64
 uses-sdk
 INJECTED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\student\LavaLamp\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\AndroidManifest.xml
