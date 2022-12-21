@@ -2,6 +2,8 @@ Using template 'C:/Program Files/Unity/Hub/Editor/2021.3.10f1/Editor/Data/Playba
 
 android.hardware.vulkan.version was added because:
 	One of the graphics devices was Vulkan
+supports-gl-texture elements added because:
+	TextureSupport was not set to generic
 android.permission.INTERNET was added because:
 	UnityEngine.Networking was present in:
 		Unity.InputSystem-FeaturesChecked.txt

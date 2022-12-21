@@ -20,6 +20,7 @@ so it is a lava lamp which contains a cap, the glass area and the base. there is
 
 # Instructions for use
 
+In order to use this project you have to first have a suitable version of unity installed alongside with the suitable unity packages and pipelines to run the project optimally. Once you have them installed you are now ready to run the game in unity and if you have a oculus VR headset, you can run it on that too. The lava lamp will make the lava rotate around when ran.
 
 # How it works
 
@@ -27,84 +28,9 @@ so it is a lava lamp which contains a cap, the glass area and the base. there is
 
 | Class/asset | Source |
 |-----------|-----------|
-| MyClass.cs | Modified from ()|
-| MyClass1.cs | Modified from () |
+| Blob.cs | Modified |
+| LampSurface.cs | Modified |
 
-# References
-* Item 1
-* Item 2
+# What I am most proud of in the assignmen
 
-# What I am most proud of in the assignment
-
-# What I learned
-
-# Proposal submitted earlier can go here:
-
-## This is how to markdown text:
-
-This is *emphasis*
-
-This is a bulleted list
-
-- Item
-- Item
-
-This is a numbered list
-
-1. Item
-1. Item
-
-This is a [hyperlink](http://bryanduggan.org)
-
-# Headings
-## Headings
-#### Headings
-##### Headings
-
-This is code:
-
-```Java
-public void render()
-{
-	ui.noFill();
-	ui.stroke(255);
-	ui.rect(x, y, width, height);
-	ui.textAlign(PApplet.CENTER, PApplet.CENTER);
-	ui.text(text, x + width * 0.5f, y + height * 0.5f);
-}
-```
-
-So is this without specifying the language:
-
-```
-public void render()
-{
-	ui.noFill();
-	ui.stroke(255);
-	ui.rect(x, y, width, height);
-	ui.textAlign(PApplet.CENTER, PApplet.CENTER);
-	ui.text(text, x + width * 0.5f, y + height * 0.5f);
-}
-```
-
-This is an image using a relative URL:
-
-![An image](images/p8.png)
-
-This is an image using an absolute URL:
-
-![A different image](https://bryanduggandotorg.files.wordpress.com/2019/02/infinite-forms-00045.png?w=595&h=&zoom=2)
-
-This is a youtube video:
-
-[![YouTube](http://img.youtube.com/vi/J2kHSSFA4NU/0.jpg)](https://www.youtube.com/watch?v=J2kHSSFA4NU)
-
-This is a table:
-
-| Heading 1 | Heading 2 |
-|-----------|-----------|
-|Some stuff | Some more stuff in this column |
-|Some stuff | Some more stuff in this column |
-|Some stuff | Some more stuff in this column |
-|Some stuff | Some more stuff in this column |
-
+I am most proud of of the fact that I have learnt some new skills with creating a beautiful and functional project. I am proud of my learning across the duration of building the project and that I can now showcase my lava lamp to anyone I want to impress with my unity skills. I am super proud of what I achieved in this project and all the new skills will carry over to future projects.
