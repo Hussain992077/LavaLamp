@@ -8,7 +8,7 @@ Class Group: TU856
 
 Video:
 
-[![YouTube](http://img.youtube.com/vi/J2kHSSFA4NU/0.jpg)](https://www.youtube.com/watch?v=J2kHSSFA4NU)
+[![YouTube](https://www.youtube.com/watch?v=ddBUtl9xNTA)]
 
 # Description of the project
 this is about a cool visual Lava Lamp that play around with some interesting graphical rendering techniques
@@ -27,9 +27,8 @@ so it is a lava lamp which contains a cap, the glass area and the base. there is
 
 | Class/asset | Source |
 |-----------|-----------|
-| MyClass.cs | Self written |
-| MyClass1.cs | Modified from [reference]() |
-| MyClass2.cs | From [reference]() |
+| MyClass.cs | Modified from ()|
+| MyClass1.cs | Modified from () |
 
 # References
 * Item 1
