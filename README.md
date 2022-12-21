@@ -20,6 +20,7 @@ so it is a lava lamp which contains a cap, the glass area and the base. there is
 
 # Instructions for use
 
+In order to use this project you have to first have a suitable version of unity installed alongside with the suitable unity packages and pipelines to run the project optimally. Once you have them installed you are now ready to run the game in unity and if you have a oculus VR headset, you can run it on that too. The lava lamp will make the lava rotate around when ran.
 
 # How it works
 
@@ -31,3 +32,5 @@ so it is a lava lamp which contains a cap, the glass area and the base. there is
 | LampSurface.cs | Modified |
 
 # What I am most proud of in the assignmen
+
+I am most proud of of the fact that I have learnt some new skills with creating a beautiful and functional project. I am proud of my learning across the duration of building the project and that I can now showcase my lava lamp to anyone I want to impress with my unity skills. I am super proud of what I achieved in this project and all the new skills will carry over to future projects.
